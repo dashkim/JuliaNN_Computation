@@ -1,4 +1,4 @@
-# Term Project Extension
+# Term Project: Julia Neural Network Implementation and Exploration
 
 Rather than focusing on the machine learning application, this project will focus more on the linear algebra application. Using Julia, we will focus more on the computational analysis rather than the standard benchmarks for an ML model.
 
